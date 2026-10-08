@@ -1,3 +1,4 @@
+Entregável Semana 4
 ```python
 # Módulo para cadastro, filtragem e análise estatística de preços de produtos.
 
